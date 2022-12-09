@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+  .maindiv{
+    height:1080px ;
+    width: 600px ;
+    border:7px solid;
+    border-color: gray;
+    margin:10px auto ;
+    background-color:pink ;
+  }
+  .h11{
+    color:burlywood;
+    /* margin:10px auto; */
+    font-size:40px;
+  }
+.h33{
+  color: brown;
+  margin-right:650px ;
+}
+.li{
+  margin-right:200px ;
+}
+.li{
+  margin-right:150px ;
+}
+.li{
+  margin-right:190px ;
+}
+.ul{
+  margin-right:320px ;
+}
+.deg{
+  margin-right:260px ;
+}
+.by{
+  margin-right:100px ;
+}
